@@ -13,7 +13,7 @@ console.log(3
     let state = null
 
 
-    // given below are the data types in JS //
+    // Given below are the data types in JS //
 
     // number => 2 to the power 53
     // bigint => larger than 2 to the power 53
